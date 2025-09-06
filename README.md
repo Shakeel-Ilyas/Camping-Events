@@ -1,0 +1,2 @@
+# Project Name "Camping Events"
+I developed a fully responsive web project using HTML and CSS, enhanced with smooth, interactive animations powered by GSAP (GreenSock Animation Platform). The layout is optimized for all screen sizes, ensuring a seamless user experience on both desktop and mobile devices.
